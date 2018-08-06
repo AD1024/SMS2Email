@@ -1,4 +1,7 @@
 # SMS2Email
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/0c6ca6b560eb9cf223f1/maintainability)](https://codeclimate.com/github/AD1024/SMS2Email/maintainability)
+
 A solution to receive verification codes while you are away from home.
 
 # How to use
