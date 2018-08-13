@@ -6,7 +6,7 @@ A solution to receive verification codes while you are away from home.
 
 # How to use
 ### Step 1
-Install the app on a phone that will leave at home & can receive SMS
+Install the app on a phone that will be left at home & can receive SMS
 
 ### Step 2
 Launch the app and fill in the settings.
